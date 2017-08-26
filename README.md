@@ -1,2 +1,3 @@
 # codePages
-Repository to store the code from code pages
+
+Repository to store code from code competitions pages like hackerRank , code jam , ...  
